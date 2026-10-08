@@ -1,7 +1,4 @@
-"""Задание №11. Таблица «Магазины» и диаграмма Matplotlib.
 
-Запуск из PyCharm: установить matplotlib и нажать Run для main.py.
-"""
 
 from collections import defaultdict
 from pathlib import Path
